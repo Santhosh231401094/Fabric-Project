@@ -179,6 +179,3 @@ A Semantic Model was created to connect:
 
 
 ✔ This enabled high-performance reporting in Power BI.
-
-
-Delivery efficiency analysis
