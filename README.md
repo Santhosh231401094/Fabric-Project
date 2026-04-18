@@ -190,3 +190,9 @@ Languages: PySpark, T-SQL
 Modeling: Star Schema (Fact & Dimension)
 
 Visualization: Power BI (Semantic Modeling)
+
+## Decision Support Layer
+- Built a rule-based decision support layer using SQL CASE logic
+- Converted descriptive analytics into actionable recommendations
+- Identified high-delay zones, underperforming restaurants, demand hotspots, and service risks
+- Generated business actions such as increasing delivery partners, optimizing routing, and promoting features
