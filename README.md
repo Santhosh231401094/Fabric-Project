@@ -9,7 +9,8 @@ Instead of a simple one-time data load, this solution implements a Medallion Arc
 ## 🏗️ Data Architecture
 
 The project follows the Medallion Architecture.
-<img width="1291" height="641" alt="swiggy1 drawio (1)" src="https://github.com/user-attachments/assets/e59e74e5-7672-40ee-89cb-089c40783b83" />
+<img width="1291" height="641" alt="swiggy1 drawio (2)" src="https://github.com/user-attachments/assets/c217bc73-e31a-4e48-9caf-ae3f2df45db0" />
+
 
 ## 🥉 Bronze Layer – Raw Data (Lakehouse)
 
